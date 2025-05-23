@@ -20,7 +20,7 @@
 
 2. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/твой-username/number-guessing-game.git
+   git clone https://github.com/snofine/number-guessing-game.git
    cd number-guessing-game
    ```
 3. 1. Перейдите в раздел [Releases](https://github.com/ваш-username/Guess-the-number/releases)
