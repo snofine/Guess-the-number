@@ -23,6 +23,14 @@
    git clone https://github.com/твой-username/number-guessing-game.git
    cd number-guessing-game
    ```
+3. 1. Перейдите в раздел [Releases](https://github.com/ваш-username/Guess-the-number/releases)
+   2. Скачайте последнюю версию игры (файл .jar)
+   3. Убедитесь, что у вас установлена Java 22 или выше
+   4. Скачайте и установите [JavaFX SDK](https://gluonhq.com/products/javafx/)
+   5. Запустите игру командой:
+      ```bash
+      java --module-path "путь/к/javafx-sdk-22/lib" --add-modules javafx.controls,javafx.fxml -jar number-guessing-game-1.0-SNAPSHOT.jar
+      ```
 
 ### Запуск
 1. Открой терминал в папке с проектом
